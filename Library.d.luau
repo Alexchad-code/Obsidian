@@ -1,4 +1,6 @@
 --!strict
+-- Obsidian UI Library - https://github.com/deividcomsono/Obsidian
+-- Copyright (c) 2025 deividcomsono - MIT License. See LICENSE for full text.
 -- Last updated: 25.08.2026
 -- Luau type definitions for the Obsidian UI Library
 
